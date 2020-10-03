@@ -1,5 +1,5 @@
 .logo{
-    width: 1000px;
+    width: 100%;
     margin: 20px 20px 0px 20px;
 }
 
@@ -18,7 +18,7 @@ body{
 }
 
 .wrap{
-    width: 1000px;
+    width: 100vw;
     margin: 0px auto 30px auto;
 }
 
